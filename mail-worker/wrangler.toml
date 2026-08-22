@@ -49,3 +49,9 @@ command = "pnpm --prefix ../mail-vue install && pnpm --prefix ../mail-vue run bu
 [[kv_namespaces]]
 binding = "kv"
 id = "9e2ff8cc87524a00a6c2cb7ec9babb87"
+
+
+[[d1_databases]]
+binding = "db"
+database_name = "cloud-mail-db"
+database_id = "c86e9c52-0690-4a35-acda-b075c7f0d422"
